@@ -1,0 +1,33 @@
+td {
+  border-style: solid;
+  width: 20px;
+  padding-left: 10px;
+}
+
+button {
+    background-color: white;
+}
+
+body {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 70vh; /* Faz com que o body ocupe toda a altura da tela */
+    margin: 0; /* Remove margens padrão */
+  }
+
+  .content { /* Alinha o texto ao centro dentro do container */
+    width: 30%;
+  }
+  
+  .array {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+  }
+
+
+  table {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
